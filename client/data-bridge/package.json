@@ -85,7 +85,7 @@
     "postcss-prefixwrap": "^1.16.0",
     "sass-loader": "^8.0.2",
     "sast": "^0.8.1",
-    "stylelint": "^13.6.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-wikimedia": "^0.10.1",
     "stylelint-processor-html": "^1.0.0",
     "stylelint-scss": "^3.18.0",
